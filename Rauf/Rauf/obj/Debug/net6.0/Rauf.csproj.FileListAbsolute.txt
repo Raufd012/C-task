@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Rauf\Rauf\bin\Debug\net6.0\Rauf.exe
+C:\Users\user\source\repos\Rauf\Rauf\bin\Debug\net6.0\Rauf.deps.json
+C:\Users\user\source\repos\Rauf\Rauf\bin\Debug\net6.0\Rauf.runtimeconfig.json
+C:\Users\user\source\repos\Rauf\Rauf\bin\Debug\net6.0\Rauf.dll
+C:\Users\user\source\repos\Rauf\Rauf\bin\Debug\net6.0\Rauf.pdb
+C:\Users\user\source\repos\Rauf\Rauf\obj\Debug\net6.0\Rauf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Rauf\Rauf\obj\Debug\net6.0\Rauf.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Rauf\Rauf\obj\Debug\net6.0\Rauf.AssemblyInfo.cs
+C:\Users\user\source\repos\Rauf\Rauf\obj\Debug\net6.0\Rauf.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Rauf\Rauf\obj\Debug\net6.0\Rauf.dll
+C:\Users\user\source\repos\Rauf\Rauf\obj\Debug\net6.0\refint\Rauf.dll
+C:\Users\user\source\repos\Rauf\Rauf\obj\Debug\net6.0\Rauf.pdb
+C:\Users\user\source\repos\Rauf\Rauf\obj\Debug\net6.0\Rauf.genruntimeconfig.cache
+C:\Users\user\source\repos\Rauf\Rauf\obj\Debug\net6.0\ref\Rauf.dll
